@@ -1,4 +1,4 @@
-#Resume
+# Resume
 
 This project is a collaboration of [Arauco](https://www.arauco.cl/) and [UTFSM](https://usm.cl/) [Fablab](https://www.fablabs.io/labs/fablabutfsm). 
 
@@ -8,14 +8,14 @@ Our goal is to physically modify wood pulp sheets to achieve the filtering perfo
 
 We are also developing a face mask which filters can be exchanged, completely out of wood pulp to be able to use our raw material. Our design is based on [Wasp’s design](https://www.3dwasp.com/en/3d-printed-mask-from-3d-scanning/) but we are looking to work with injection molding and/or 2 mold processes instead of 3D printing. It is crucial to be able to mass produce the masks. The advantage of Wasp design is that the filters are held on the inside side of the mask. We think that this detail would help decrease the contamination of the filters when changing them. There are also fabric masks in which these filters could work like this one, the [HKMask](https://diymask.site/) 
 
-##Key Steps: 
+## Key Steps: 
 - SEM Measurements, measure the porosity of the wood pulp sheets; it must be >0.1um
 - Particle counting measurement, measure filtering capacity of the material, the ideal scenario will be an N95 filtering capacity. 
 - In case the material's porosity is bigger than 0.1um or the filtering capacity isn’t enough,  Arauco is going to modify their manufacturing process to get a tighter material, or we are going to test a Electrospinning machine. 
 - Make the material Hydrophobic. 
 -Industrial production.
 
-##Filter Development
+## Filter Development
 - Wood pulp sheets have the following disadvantages:
 - Hydrophilic, absorbs any liquid very fast so it could have a lower life expectancy and could absorb contaminated droplets, this can be controlled through design or modifying the material properties. 
 - Due to air flow, the user could inhale wood pulp fibers, we are adding wood pulp based fabrics to act as a filter. It’s relevant to point out that wood fibers aren’t toxic, you just can’t digest them. 
