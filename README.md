@@ -1,6 +1,6 @@
 # Resume
 
-This project is a collaboration of [Arauco](https://www.arauco.cl/) and [UTFSM](https://usm.cl/) [Fablab](https://www.fablabs.io/labs/fablabutfsm). 
+This project is a collaboration of [Arauco](https://www.arauco.cl/) and [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm). 
 
 COVID-19 has generated a global demand for face masks that our supply chains haven't been able to satisfy. Therefore, there is a huge need to create new materials and manufacturing methods to fabricate face masks and filters.  We are working on a wood pulp filter that protects from Covid - 19, and  could potentially be produced anywhere where there is a wood pulp factory. Wood pulp factories are present in most regions of the world.
 
