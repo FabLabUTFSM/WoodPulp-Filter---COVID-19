@@ -1,6 +1,6 @@
 # Resume
 
-![](Image/l1_0.jpg)
+![](Image/l5_0.jpg)
 
 This project is been developed by [Paloma Gonzalez](http://palomagr.mit.edu/) and [José Tomás Domínguez](https://github.com/josetomas) in a collaboration of [Arauco](https://www.arauco.cl/) and [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm) and [MIT CBA](http://cba.mit.edu/). 
 
