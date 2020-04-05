@@ -62,5 +62,3 @@ And get a finished face mask with a replaceable wood pulp based filter
 
 ![](Image/l1_3.jpg)
 
-
-hola hola
