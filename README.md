@@ -32,7 +32,7 @@ We are also developing a face mask which filters can be exchanged, completely ou
 Celulose comes in letter size sheets, 21.59 cm. X 27.94 cm with a thikness of 1mm.
 
 ![](Images/I21.jpg)
-![](Images/I2.0.jpg)
+![](Images/I2.0.jpeg)
 
 We are also working with wood pulp based fabrics, that will act as filter of big size wood pulp fibers than could be detached from the filter due to air flow: 
 
