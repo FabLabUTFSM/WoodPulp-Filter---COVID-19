@@ -15,9 +15,49 @@ We are also developing a face mask which filters can be exchanged, completely ou
 - Make the material Hydrophobic. 
 -Industrial production.
 
-## Filter Development
-- Wood pulp sheets have the following disadvantages:
+
+## Wood pulp sheets have the following disadvantages:
 - Hydrophilic, absorbs any liquid very fast so it could have a lower life expectancy and could absorb contaminated droplets, this can be controlled through design or modifying the material properties. 
 - Due to air flow, the user could inhale wood pulp fibers, we are adding wood pulp based fabrics to act as a filter. It’s relevant to point out that wood fibers aren’t toxic, you just can’t digest them. 
 - FDM 3D printed masks are slow to produce and have a porosity bigger than >0.1um, we are looking to develop the plastic parts of the mask through injection molding. 
+
+## Current Development
+
+![](Images/I1.0.jpg)
+
+### Raw Material
+
+Celulose comes in letter size sheets, 21.59 cm. X 27.94 cm with a thikness of 1mm.
+
+![](Images/I2.1.jpg)
+![](Images/I2.0.jpg)
+
+We are also working with wood pulp based fabrics, that will act as filter of big size wood pulp fibers than could be detached from the filter due to air flow: 
+
+![](Images/I2.2.jpg)
+
+### Fabricating the filter
+
+Due to the density of the celulose raw material, we smashed it and compact into a breathable filter. 
+
+![](Images/I1.2.jpg)
+
+### Assembling the mask
+
+We are working with the face mask design by [Wasp](https://www.3dwasp.com/en/3d-printed-mask-from-3d-scanning/)
+
+![](Images/I3.1.jpg)
+
+When everything is already manufactured
+
+![](Images/I1.1.jpg)
+
+We assemble the parts: 
+
+![](Images/I3.2.jpg)
+
+And get a finished face mask with a replaceable wood pulp based filter
+
+![](Images/I1.3.jpg)
+
 
