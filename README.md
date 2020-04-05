@@ -25,7 +25,7 @@ We are also developing a face mask which filters can be exchanged, completely ou
 
 ## Current Development
 
-![](Images/I1.0.jpg)
+![](Images/I1_0.jpg)
 
 ### Raw Material
 
