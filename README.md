@@ -1,6 +1,6 @@
 # Resume
 
-![](Images/I1.0.jpg)
+![](Images/I1_0.jpg)
 
 This project is been developed by [Paloma Gonzalez](http://palomagr.mit.edu/) and [José Tomás Domínguez](https://github.com/josetomas) in a collaboration of [Arauco](https://www.arauco.cl/) and [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm) and [MIT CBA](http://cba.mit.edu/). 
 
@@ -31,35 +31,35 @@ We are also developing a face mask which filters can be exchanged, completely ou
 
 Celulose comes in letter size sheets, 21.59 cm. X 27.94 cm with a thikness of 1mm.
 
-![](Images/I21.jpg)
-![](Images/I2.0.jpeg)
+![](Images/I2_1.jpg)
+![](Images/I2_0.jpeg)
 
 We are also working with wood pulp based fabrics, that will act as filter of big size wood pulp fibers than could be detached from the filter due to air flow: 
 
-![](Images/I2.2.jpg)
+![](Images/I2_2.jpg)
 
 ### Fabricating the filter
 
 Due to the density of the celulose raw material, we smashed it and compact into a breathable filter. 
 
-![](Images/I1.2.jpg)
+![](Images/I1_2.jpg)
 
 ### Assembling the mask
 
 We are working with the face mask design by [Wasp](https://www.3dwasp.com/en/3d-printed-mask-from-3d-scanning/)
 
-![](Images/I3.1.jpg)
+![](Images/I3_1.jpg)
 
 When everything is already manufactured
 
-![](Images/I1.1.jpg)
+![](Images/I1_1.jpg)
 
 We assemble the parts: 
 
-![](Images/I3.2.jpg)
+![](Images/I3_2.jpg)
 
 And get a finished face mask with a replaceable wood pulp based filter
 
-![](Images/I1.3.jpg)
+![](Images/I1_3.jpg)
 
 
