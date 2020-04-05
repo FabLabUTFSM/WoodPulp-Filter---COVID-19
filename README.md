@@ -25,41 +25,41 @@ We are also developing a face mask which filters can be exchanged, completely ou
 
 ## Current Development
 
-![](Images/l1_0.jpg)
+![](Image/l1_0.jpg)
 
 ### Raw Material
 
 Celulose comes in letter size sheets, 21.59 cm. X 27.94 cm with a thikness of 1mm.
 
-![](Images/l2_1.jpg)
-![](Images/l2_0.jpeg)
+![](Image/l2_1.jpg)
+![](Image/l2_0.jpeg)
 
 We are also working with wood pulp based fabrics, that will act as filter of big size wood pulp fibers than could be detached from the filter due to air flow: 
 
-![](Images/l2_2.jpg)
+![](Image/l2_2.jpg)
 
 ### Fabricating the filter
 
 Due to the density of the celulose raw material, we smashed it and compact into a breathable filter. 
 
-![](Images/l1_2.jpg)
+![](Image/l1_2.jpg)
 
 ### Assembling the mask
 
 We are working with the face mask design by [Wasp](https://www.3dwasp.com/en/3d-printed-mask-from-3d-scanning/)
 
-![](Images/l3_1.jpg)
+![](Image/l3_1.jpg)
 
 When everything is already manufactured
 
-![](Images/l1_1.jpg)
+![](Image/l1_1.jpg)
 
 We assemble the parts: 
 
-![](Images/l3_2.jpg)
+![](Image/l3_2.jpg)
 
 And get a finished face mask with a replaceable wood pulp based filter
 
-![](Images/l1_3.jpg)
+![](Image/l1_3.jpg)
 
 
