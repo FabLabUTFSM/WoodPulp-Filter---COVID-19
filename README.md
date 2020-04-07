@@ -1,6 +1,6 @@
 # Summary
 
-![](Image/l5_0.jpg)
+![scale=0.5](Image/l1_0.jpg)
 
 This project is been developed by [Paloma Gonzalez](http://palomagr.mit.edu/) and [José Tomás Domínguez](https://github.com/josetomas) in a collaboration of [Arauco](https://www.arauco.cl/) and [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm) and [MIT CBA](http://cba.mit.edu/). 
 
@@ -34,7 +34,7 @@ All this tests could be replaced by a DOP ([DOP Guideline](http://www.eacoontari
 
 ## Current Development
 
-![](Image/l1_0.jpg)
+![](Image/l5_0.jpg)
 
 ### Raw Material
 
@@ -70,5 +70,4 @@ We assemble the parts:
 And get a finished face mask with a replaceable wood pulp based filter
 
 ![](Image/l1_3.jpg)
-
 
