@@ -11,11 +11,11 @@ Our goal is to physically modify wood pulp sheets to achieve the filtering perfo
 We are also developing a face mask which filters can be exchanged, completely out of wood pulp to be able to use our raw material. Our design is based on [Wasp’s design](https://www.3dwasp.com/en/3d-printed-mask-from-3d-scanning/) but we are looking to work with injection molding and/or 2 mold processes instead of 3D printing. It is crucial to be able to mass produce the masks. The advantage of Wasp design is that the filters are held on the inside side of the mask. We think that this detail would help decrease the contamination of the filters when changing them. There are also fabric masks in which these filters could work like this one, the [HKMask](https://diymask.site/) 
 
 ## Key Parameters to measure [[2](https://scientificfilters.com/wp-content/uploads/2016/03/BasicFiltrationConcepts.pdf)]
-- Selective Electron Microscope [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope): This tests characterize the materials porosity. Target: < 0.1 um. 
+- Scanning Electron Microscope [SEM](https://en.wikipedia.org/wiki/Scanning_electron_microscope): This tests characterize the materials porosity. Target: < 0.1 um. 
 - Particle Retention Rate: "In a filtration process, the particle retention efficiency of a depth-type filter is expressed in terms of the particle size (in µm) at which a retention
 level of 98% of the total number of particles initially challenging the filter is
 obtained". Target: 95%
-- Preassure Drop: The higher the pressure drop, the harder it is to breathe. Target: <5.82 [mmH20] at a flow rate of 32 [L/min]. 
+- Pressure Drop: The higher the pressure drop, the harder it is to breathe. Target: <5.82 [mmH20] at a flow rate of 32 [L/min]. 
 
 All this tests could be replaced by a DOP ([DOP Guideline](http://www.eacoontario.com/pdf/2013/Revised%20August%2027%202013%20DOP%20PAO%20HEPA%20IntegrityTesting%20Procedure.pdf)). 
 
