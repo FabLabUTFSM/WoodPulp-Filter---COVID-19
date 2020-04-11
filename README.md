@@ -107,3 +107,6 @@ The first part, called the moving half, of the mold is made from a solid materia
 The second part, called the fixed half, has two different layers, this allows the water to flow through the fiber network, into a porous material, to the drainage channels (as you can see in the image above); this allows the mold to release water and keep its final form. 
 
 <script src="https://embed.github.com/view/3d/josetomas/WoodPulp-Filter---COVID-19/master/3D_Models/M_1_1.stl"></script>
+
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/fddec11675e1437d80bb7d9a4236bf83/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
