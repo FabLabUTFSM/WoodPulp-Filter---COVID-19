@@ -60,8 +60,8 @@ The filter frame is still 3D printed. Our next step is to Incorporate it in the 
 
 Celulose comes in letter size sheets, 21.59 cm. X 27.94 cm with a thikness of 1mm.
 
-<img src="images/l2_1.jpg"  width="200" >
-<img src="images/l2_0.jpg"  width="200" >
+<img src="images/l2_1.jpg"  width="200" > <img src="images/l2_0.jpg"  width="200" >
+
 
 
 We are also working with wood pulp based fabrics, that will act as filter of big size wood pulp fibers than could be detached from the filter due to air flow: 
