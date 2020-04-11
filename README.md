@@ -73,7 +73,7 @@ We are also working with wood pulp-based fabrics, that will act as filter of big
 Due to the density of the cellulose sheets the material is not breathable. We succeeded in testing the feasibility of making it breathable. We pulverized it and compacted it into a breathable filter of 5mm thickness. The filter has three layers, the first and last of fabric to isolate fibers and possibly waterproof the pulp.
 The filter needs to be tested to evaluate its filtering capacity and porosity.
 
-<img src="images/l1_2.jpg"  width="200" > <img src="images/l6.jpg"  width="200" >
+<img src="images/l1_2.jpg"  height="200" > <img src="images/l6.jpg"  height="200" >
 
 
 ### Assembling the mask
