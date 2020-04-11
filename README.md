@@ -109,7 +109,7 @@ The second part, called the fixed half, has two different layers, this allows th
 ### The Mold
 You can find the mold .stl files in the following [link](https://github.com/FabLabUTFSM/WoodPulp-Filter---COVID-19/tree/master/3D_Models). 
 
-<img src="images/M_2.PNG"  width="400" >
+<img src="images/M_2.jpg"  width="400" >
 
 #### Recipe
 
