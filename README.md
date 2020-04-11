@@ -39,7 +39,7 @@ All this tests could be replaced by a DOP ([DOP Guideline](http://www.eacoontari
 - SEM Measurements, measure the porosity of the wood pulp sheets; it must be >0.1um
 - Particle counting measurement, measure filtering capacity of the material, the ideal scenario will be an N95 filtering capacity. 
 - In case the material's porosity is bigger than 0.1um or the filtering capacity isn’t enough,  Arauco is going to modify their manufacturing process to get a tighter material, or we are going to test a Electrospinning machine. 
-- Make the material Hydrophobic. 
+- Make the material hydrophobic. 
 -Industrial production.
 
 ## Filter Development
@@ -96,7 +96,7 @@ And get a finished face mask with a replaceable wood pulp based filter
 
 ## Molding
 
-In order to advance into mass production of the mask, we have been developing a 3D printed wood pulp  mold, based on [Startasys](https://www.stratasysdirect.com/technologies/fused-deposition-modeling/fdm-tools-paper-pulp-molding). 
+In order to advance into mass production of the mask, we have been developing a 3D printed wood pulp mold, based on [Startasys](https://www.stratasysdirect.com/technologies/fused-deposition-modeling/fdm-tools-paper-pulp-molding). 
 
 ### Wood Pulp Molds
 
@@ -106,7 +106,37 @@ In the image above [3](https://onlinelibrary.wiley.com/doi/abs/10.1002/pts.2289)
 The first part, called the moving half, of the mold is made from a solid material, and is the one that press the second part. 
 The second part, called the fixed half, has two different layers, this allows the water to flow through the fiber network, into a porous material, to the drainage channels (as you can see in the image above); this allows the mold to release water and keep its final form. 
 
-<script src="https://embed.github.com/view/3d/josetomas/WoodPulp-Filter---COVID-19/master/3D_Models/M_1_1.stl"></script>
+### The Mold
+You can find the mold .stl files in the following [link](https://github.com/FabLabUTFSM/WoodPulp-Filter---COVID-19/tree/master/3D_Models). 
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/fddec11675e1437d80bb7d9a4236bf83/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+<img src="images/M_2.PNG"  width="400" >
+
+#### Recipe
+
+We used the following ingredients for the first test:
+
+- Pulverized wood pulp: 11.3 grams
+
+It has to have the following texture:
+
+<img src="images/M_3.jpg"  width="400" >
+
+- Water: 269 grams
+- Polyvinyl acetate: 66.3 grams. 
+
+#### First Results
+
+
+In the following pictures you can see the first results we got:
+
+<img src="images/M_4.jpg"  width="200" ><img src="images/M_5.jpg"  width="200" >
+
+#### Conclusions
+
+- After 12 hours ofdrying the material was wet, we have to develope a better geometry so that water is expelled out of the mold. 
+- The porous material layer of the fixed half must have a 1 mm thickness. 
+- We must add drain channels to the fixed half. 
+- The material is getting a good resolution. 
+- The cylinders for the respiration holes must be longer.
+- Add holes to the mold, to fix both parts through screws. 
+
