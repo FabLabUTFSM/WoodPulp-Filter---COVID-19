@@ -102,7 +102,7 @@ In order to advance into mass production of the mask, we have been developing a 
 
 <img src="images/M_1.PNG"  width="400" >
 
-In the image above [3](https://onlinelibrary.wiley.com/doi/abs/10.1002/pts.2289) yo can see how Wood Pulp Molds work. 
+In the image above [[3](https://onlinelibrary.wiley.com/doi/abs/10.1002/pts.2289)] yo can see how Wood Pulp Molds work. 
 The first part, called the moving half, of the mold is made from a solid material, and is the one that press the second part. 
 The second part, called the fixed half, has two different layers, this allows the water to flow through the fiber network, into a porous material, to the drainage channels (as you can see in the image above); this allows the mold to release water and keep its final form. 
 
