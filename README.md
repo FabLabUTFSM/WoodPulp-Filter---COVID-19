@@ -129,7 +129,7 @@ It has to have the following texture:
 
 In the following pictures you can see the first results we got:
 
-<img src="images/M_4.jpg"  width="200" ><img src="images/M_5.jpg"  width="200" >
+<img src="images/M_4.jpg"  width="200" > <img src="images/M_5.jpg"  width="200" >
 
 #### Conclusions
 
