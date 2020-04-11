@@ -106,7 +106,9 @@ In the image above [[3](https://onlinelibrary.wiley.com/doi/abs/10.1002/pts.2289
 The first part, called the moving half, of the mold is made from a solid material, and is the one that press the second part. 
 The second part, called the fixed half, has two different layers, this allows the water to flow through the fiber network, into a porous material, to the drainage channels (as you can see in the image above); this allows the mold to release water and keep its final form. 
 
-### The Mold
+### First iteration
+
+#### The Mold
 You can find the mold .stl files in the following [link](https://github.com/FabLabUTFSM/WoodPulp-Filter---COVID-19/tree/master/3D_Models). 
 
 <img src="images/M_2.jpg"  width="400" >
@@ -125,7 +127,7 @@ It has to have the following texture:
 - Water: 269 grams
 - Polyvinyl acetate: 66.3 grams. 
 
-#### First Results
+#### Results
 
 
 In the following pictures you can see the first results we got:
