@@ -40,7 +40,7 @@ All this tests could be replaced by a DOP ([DOP Guideline](http://www.eacoontari
 - Particle counting measurement, measure filtering capacity of the material, the ideal scenario will be an N95 filtering capacity. 
 - In case the material's porosity is bigger than 0.1um or the filtering capacity isn’t enough, Arauco is going to modify their manufacturing process to get a tighter material, or we are going to test an Electrospinning machine. 
 - Make the material hydrophobic. 
--Industrial production.
+- Industrial production.
 
 ## Filter Development
 Wood pulp sheets have the following disadvantages:
