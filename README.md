@@ -108,17 +108,17 @@ The second part, called the fixed half, has two different layers, this allows th
 
 ### First iteration
 
-#### The Mold
+#### The Mold for Pulp Molding
 You can find the mold .stl files in the following [link](https://github.com/FabLabUTFSM/WoodPulp-Filter---COVID-19/tree/master/3D_Models). 
 
 <img src="images/M_2.jpg"  width="400" >
 (Models M_1 correspond to the iteration)
 
-#### Recipe
+#### Material Formula
 
-We used the following ingredients for the first test:
+We used the following foormula for the first test:
 
-- Pulverized wood pulp: 11.3 grams
+- Pulverized unbleached wood pulp: 11.3 grams
 
 It has to have the following texture:
 
@@ -136,11 +136,11 @@ In the following pictures you can see the first results we got:
 
 #### Conclusions
 
-- After 12 hours of drying the material was wet, we must develop a better geometry so that water is expelled out of the mold. 
+- After 12 hours of drying, the material was wet. We will improve the geometry and introduce porosity that expells the water out. 
 - The porous material layer of the fixed half must have a 1 mm thickness. 
 - We must add drain channels to the fixed half. 
 - The material is getting a good resolution. 
-- The cylinders for the respiration holes must be longer.
-- Add holes to the mold, to fix both parts through screws. 
+- The cylinders for the respiration holes must be extended.
+ 
 
 
