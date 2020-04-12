@@ -54,7 +54,7 @@ Wood pulp sheets have the following disadvantages:
 <img src="images/l5_0.jpg"  width="400" >
 
 We are working in a version made from wood pulp instead of 3D printing to be mass produced with compression molds similar to egg boxes.
-The filter frame is still 3D printed. Our next step is to Incorporate it in the mold and make it with wood pulp.
+The filter frame is still 3D printed. Our next step is to Incorporate it in the mold and make it with wood pulp. **According to our calculations the half mask will cost $0,029 and the filter will cost $0,1.** 
 
 ### Raw Material
 
