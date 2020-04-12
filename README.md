@@ -108,13 +108,13 @@ The second part, called the fixed half, has two different layers, this allows th
 
 ### First iteration
 
-#### The Mold
+#### The Mold for Pulp Molding
 You can find the mold .stl files in the following [link](https://github.com/FabLabUTFSM/WoodPulp-Filter---COVID-19/tree/master/3D_Models). 
 
 <img src="images/M_2.jpg"  width="400" >
 (Models M_1 correspond to the iteration)
 
-#### Formula
+#### Material Formula
 
 We used the following foormula for the first test:
 
