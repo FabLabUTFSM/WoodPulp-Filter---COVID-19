@@ -44,9 +44,9 @@ All this tests could be replaced by a DOP ([DOP Guideline](http://www.eacoontari
 
 ## Filter Development
 Wood pulp sheets have the following disadvantages:
-Hydrophilic, absorbs any liquid very fast so it could have a lower life expectancy and could absorb contaminated droplets, this can be controlled through design or modifying the material properties. 
-Due to air flow, the user could inhale wood pulp fibers, we are adding wood pulp-based fabrics to act as a filter. It’s relevant to point out that wood fibers aren’t toxic, you just can’t digest them. 
-FDM 3D printed masks are slow to produce and have a porosity bigger than >0.1um, we are looking to develop the plastic parts of the mask through injection molding. 
+- Hydrophilic, absorbs any liquid very fast so it could have a lower life expectancy and could absorb contaminated droplets, this can be controlled through design or modifying the material properties. 
+- Due to air flow, the user could inhale wood pulp fibers, we are adding wood pulp-based fabrics to act as a filter. It’s relevant to point out that wood fibers aren’t toxic, you just can’t digest them. 
+- FDM 3D printed masks are slow to produce and have a porosity bigger than >0.1um, we are looking to develop the plastic parts of the mask through injection molding. 
 
 
 ## Current Development
