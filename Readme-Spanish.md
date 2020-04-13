@@ -6,7 +6,7 @@
 Este proyecto esta siendo desarrollado por:
 [Paloma Gonzalez](http://palomagr.mit.edu/index.html) and 
 [José Tomás Domínguez](https://github.com/josetomas), en colaboracion con 
-[Arauco ](https://www.arauco.cl)y [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm).
+[Arauco ](https://www.arauco.cl), [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm) el [Center of Bits and Atoms](http://cba.mit.edu/).
 
 COVID-19 ha generado una demanda global de máscaras faciales que nuestras cadenas de suministro no han podido satisfacer. Por lo tanto, 
 existe una gran necesidad de crear nuevos materiales y métodos de fabricación para máscaras faciales y filtros en Chile y Latinoamérica. 
