@@ -1,4 +1,0 @@
-Last Estable test: 
-Lattice thikess: 0.8mm
-Node Distance: X,Y,Z = 4mm
-
