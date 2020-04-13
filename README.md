@@ -54,8 +54,7 @@ Wood pulp sheets have the following disadvantages:
 
 Celulose comes in letter size sheets, 21.59 cm. X 27.94 cm with a thikness of 1mm.
 
-<img src="images/l2_1.jpg"  width="200" >
-<img src="images/l2_0.jpg"  width="200" >
+<img src="images/l2_1.jpg"  width="200" > <img src="images/l2_0.jpg"  width="200" >
 
 ### Fabricating the filter
 
