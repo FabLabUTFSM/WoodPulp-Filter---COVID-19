@@ -5,8 +5,8 @@
 
 This project is been developed by 
 [Paloma Gonzalez](http://palomagr.mit.edu/index.html) and 
-[José Tomás Domínguez](https://github.com/josetomas) in a collaboration with 
-[Arauco ](https://www.arauco.cl), [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm) and [Center of Bits and Atoms](http://cba.mit.edu/).
+[José Tomás Domínguez](https://github.com/josetomas) in a collaboration of 
+[Arauco ](https://www.arauco.cl)and [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm).
 
 COVID-19 has generated a global demand for face masks that our supply chains haven't been able to satisfy. Therefore, there is a huge need to create new materials and manufacturing methods to fabricate face masks and filters.  We are working on a wood pulp filter that protects from Covid - 19, and  could potentially be produced anywhere where there is a wood pulp factory. Wood pulp factories are present in most regions of the world.
 
@@ -16,7 +16,7 @@ layer for respirators / masks / PPE for the corona viruses.
 The corona virus measures approximately 0.1 μm. We can modify the compaction of the layers and/ or the size of the fibers to increase their filtering capacity / breathability. 
 
 ## Filter + Half Face Mask
-**According to our calculations the half mask will cost $0,029 and the filter will cost $0,1.** 
+**According to our calculations the half mask will manufacturing cost $0,029 and the filter will cost $0,1.** 
 We are also developing a face mask which filters can be exchanged, 
 completely out of molded wood pulp, taking advantage of our raw material.
 [Our design is based on Wasp’s design](https://www.3dwasp.com/en/3d-printed-mask-from-3d-scanning/) but we are looking to work with injection molding 
@@ -62,16 +62,13 @@ Celulose comes in letter size sheets, 21.59 cm. X 27.94 cm with a thikness of 1m
 Due to the density of the cellulose sheets the material is not breathable. We succeeded in testing the feasibility of making it breathable. We pulverized it and compacted it into a breathable filter of 5mm thickness. The filter has three layers, the first and last of fabric to isolate fibers and possibly waterproof the pulp.
 The filter needs to be tested to evaluate its filtering capacity and porosity.
 
-<img src="images/l1_2.jpg"  width="200" >
-<img src="images/l6.jpg"  width="200" >
+<img src="images/l1_2.jpg"  width="200" > <img src="images/l6.jpg"  width="200" >
 
 ### Assembling the mask
 
 We are working with the face mask design by [Wasp](https://www.3dwasp.com/en/3d-printed-mask-from-3d-scanning/)
 
-<img src="images/l3_1.jpg"  width="300" >
-<img src="images/l1_1.jpg"  width="300" >
-<img src="images/l1_3.jpg"  width="300" >
+<img src="images/l3_1.jpg"  width="300" > <img src="images/l1_1.jpg"  width="300" > <img src="images/l1_3.jpg"  width="300" >
 
 When everything is already manufactured, assemble the parts, and get a finished face mask with a replaceable wood pulp based filter. 
 
@@ -123,3 +120,9 @@ In the following pictures you can see the first results we got:
 - We must add drain channels to the fixed half. 
 - The material is getting a good resolution. 
 - The cylinders for the respiration holes must be extended.
+
+
+
+
+
+
