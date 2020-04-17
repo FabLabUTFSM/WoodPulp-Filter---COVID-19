@@ -1,0 +1,9 @@
+Perfiles Netfabb: 
+09/04
+Formlabs: 
+Lattice thikness: 0.2mm
+
+Work? Perfect! 
+
+16/04
+Formlabs: 
