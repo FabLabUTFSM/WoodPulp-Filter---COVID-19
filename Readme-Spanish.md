@@ -6,7 +6,7 @@
 Este proyecto esta siendo desarrollado por:
 [Paloma Gonzalez](http://palomagr.mit.edu/index.html) and 
 [José Tomás Domínguez](https://github.com/josetomas), en colaboracion con 
-[Arauco ](https://www.arauco.cl), [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm) el [Center of Bits and Atoms](http://cba.mit.edu/).
+[Arauco ](https://www.arauco.cl)y [UTFSM Fablab](https://www.fablabs.io/labs/fablabutfsm).
 
 COVID-19 ha generado una demanda global de máscaras faciales que nuestras cadenas de suministro no han podido satisfacer. Por lo tanto, 
 existe una gran necesidad de crear nuevos materiales y métodos de fabricación para máscaras faciales y filtros en Chile y Latinoamérica. 
@@ -63,7 +63,8 @@ para que actúen como filtro.
 
 Estamos trabajando en una versión hecha de pulpa de madera en lugar de impresión 3D para producir en masa con moldeado de
 cartón, similares a las bandejas de huevos. El marco del filtro todavía se imprime en 3D. Nuestro siguiente paso es
-incorporarlo en el molde y hacerlo con pulpa de madera.
+incorporarlo en el molde y hacerlo con pulpa de madera. **De acuerdo a nuestros calculos la media mascara va a costar 25-50$ pesos chilenos, 
+y el filtro va a costar 80-90$ pesos chilenos.**
 
 ### Materias Primas
 
@@ -160,3 +161,8 @@ Vale la pena destacar que el material permite una resolución aceptable de la ge
 - Debemos agregar canales de drenaje a la mitad fija.
 - El material está obteniendo una buena resolución.
 - Los cilindros para los orificios de respiración deben extenderse.
+
+
+
+
+
