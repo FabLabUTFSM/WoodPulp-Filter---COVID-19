@@ -1,5 +1,21 @@
 #Perfiles Netfabb: 
 
+## Lattice Grid
+Recomendación de Stratasys. 
+
+### Prusa
+
+Unit size (x,y,z): 1.5
+Lattice: 0.5 mm
+
+### Formlabs
+#### Lattice
+Unit size (x,y,z): 1.5 mm
+Lattice: 0.2 mm
+Espesor de capa: 4mm
+#### Surface Lattice
+Max. Beam Length: 2 mm 
+Lattice: 0.2 mm
 
 
 ## Lattice Vin Tiles
@@ -26,14 +42,4 @@ relleno interior:
 Espesor: 0.8mm
 Distantcia: 1mm 
 
-## Lattice Grid
-Recomendación de Stratasys. 
 
-### Prusa
-
-Unit size (x,y,z): 1.5
-Lattice: 0.5 mm
-
-### Formlabs
-Unit size (x,y,z): 2
-Lattice: 0.5 mm
