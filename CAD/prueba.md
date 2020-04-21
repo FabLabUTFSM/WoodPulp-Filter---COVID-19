@@ -1,4 +1,9 @@
-Perfiles Netfabb: 
+#Perfiles Netfabb: 
+
+
+
+## Lattice Vin Tiles
+
 09/04
 Formlabs: 
 Lattice thikness: 0.2mm
@@ -20,3 +25,15 @@ Latice size (x,y,z): 3,3,3 mm
 relleno interior: 
 Espesor: 0.8mm
 Distantcia: 1mm 
+
+## Lattice Grid
+Recomendación de Stratasys. 
+
+### Prusa
+
+Unit size (x,y,z): 1.5
+Lattice: 0.5 mm
+
+### Formlabs
+Unit size (x,y,z): 2
+Lattice: 0.5 mm
