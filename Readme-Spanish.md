@@ -1,6 +1,6 @@
 # Filtro de Celulosa para Covid - 19
 
-<img src="images/l1_0.jpg"  width="400" >
+<img src="images/biomask.jpg"  width="400" >
 
 
 Este proyecto esta siendo desarrollado por:
