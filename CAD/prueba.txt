@@ -7,13 +7,9 @@ Work? Perfect!
 
 16/04
 Formlabs: 
-Espesor Capa: 2mm 
+Espesor Capa: 2.25 mm 
 Lattice thikness: 0.2 mm
 Latice size (x,y,z): 2,2,2 mm
-
-relleno interior: 
-Espesor: 0.8mm
-Distantcia: 1mm 
 
 17/04
 Prusa: 
