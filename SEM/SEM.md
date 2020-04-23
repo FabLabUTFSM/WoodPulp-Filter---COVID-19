@@ -5,7 +5,7 @@ Base Analysis developed by [Camron Blackburn.](https://gitlab.cba.mit.edu/cambla
 ## BKP - Radiata Pine Wood Pulp
 Manufacturer page: [Arauco BKP](https://www.arauco.cl/na/marcas/woodpulp/arauco-bkp/)
 
-<img src="SEM/SEM_CBA/BKP/bkp_raw.jpg" height = "200">
+<img src="SEM_CBA/BKP/bkp_raw.jpg" height = "200">
 
 ### physical measurements 
 the pieces gold coated were imaged.
